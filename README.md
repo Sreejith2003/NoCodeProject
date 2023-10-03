@@ -30,5 +30,10 @@ CONNECTION :
 
 Now the our Emergency SOS app is ready...
 
+NOTE: To use my project on the MIT App Inventor click on the "Project" and click to "Import project from my computer "
+
+![image](https://github.com/Sreejith2003/NoCodeProject/assets/125786861/efea3ef4-6505-42eb-ad72-475458f5bc15)
+
+
 Happy Reading :)  
      
